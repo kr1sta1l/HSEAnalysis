@@ -1,0 +1,19 @@
+{
+  "title": "HSEAnalysis",
+  "file1": "Файл мероприятий",
+  "file2": "Файл поступивших",
+  "file_chosen": "Файл выбран",
+  "intersection": "Поиск",
+  "user_info": "Информация о пользователе",
+  "settings": "Настройки",
+  "export": "Экспорт в excel",
+  "switch_language": "Сменить язык",
+  "load_file1": "Выберите файл мероприятий",
+  "load_file2": "Выберите файл поступивших студентов",
+  "file_not_chosen": "Файл не был выбран",
+  "export_finished": "Экспорт завершен",
+  "intersection_error": "Произошла ошибка во время вычислений",
+  "calculating": "Подождите...",
+  "cant_export_title": "Невозможно экспортировать",
+  "cant_export_text": "Производится анализ файлов"
+}
