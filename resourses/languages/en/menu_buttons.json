@@ -1,0 +1,19 @@
+{
+  "title": "HSEAnalysis",
+  "file1": "Event file",
+  "file2": "Received file",
+  "file_chosen": "File selected",
+  "intersection": "Intersection",
+  "user_info": "User Info",
+  "settings": "Settings",
+  "export": "Export in excel",
+  "switch_language": "Switch language",
+  "load_file1": "Select an event file",
+  "load_file2": "Select the file of enrolled students",
+  "file_not_chosen": "The file was not selected",
+  "export_finished": "Export completed",
+  "intersection_error": "An error occurred during calculations",
+  "calculating": "Wait...",
+  "cant_export_title": "Unable to export",
+  "cant_export_text": "Files are being analyzed"
+}
